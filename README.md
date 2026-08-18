@@ -23,12 +23,12 @@ EUP XML Refit 是一套面向 GTA V LSPDFR 的配置管理工具，把「一套 
 
 ## 下载 / Download
 
-从 [Releases 页面](https://github.com/TZL1040109470/EUP-XML-Refit/releases/tag/EUP_Tool)
+从 [Releases 页面](https://github.com/TZL1040109470/EUP-XML-Refit/releases/tag/EUP_Tool) 下载对应版本：
 
 | 文件 | 说明 |
 | --- | --- |
 | `EUP XML Refit Setup x.x.x.exe` | 安装版（向导式安装，免管理员） |
-| `EUP XML Refit Setup x.x.x.zip` | 便携版（解压即用） |
+| `EUP XML Refit Setup x.x.x.zip` | 安装版zip包（向导式安装，免管理员） |
 
 ## 截图 / Screenshots
 

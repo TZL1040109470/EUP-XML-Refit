@@ -5,7 +5,7 @@
 
 **免费 · 纯本地运行 · Windows 10/11 · 数据不出本机**
 
-⬇️ [下载最新版本]([https://github.com/<TZL1040109470>/EUP-LSPDFR-Config-Editor/releases/latest](https://github.com/TZL1040109470/EUP-XML-Refit))
+⬇️ [下载最新版本](https://github.com/TZL1040109470/EUP-XML-Refit)
 
 ## 这是网站 / This is the website.
 
@@ -23,7 +23,7 @@ EUP XML Refit 是一套面向 GTA V LSPDFR 的配置管理工具，把「一套 
 
 ## 下载 / Download
 
-从 [Releases 页面]([https://github.com/<TZL1040109470>/EUP-LSPDFR-Config-Editor/releases/latest](https://github.com/TZL1040109470/EUP-XML-Refit/releases/tag/EUP_Tool)) 下载对应版本：
+从 [Releases 页面](https://github.com/TZL1040109470/EUP-XML-Refit/releases/tag/EUP_Tool)
 
 | 文件 | 说明 |
 | --- | --- |
